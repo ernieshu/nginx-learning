@@ -1,1 +1,1 @@
-docker run --name nginx-feature-toggles -d -p 8080:80 feature-toggle-at-nginx-level-my-version
+docker run -d -p 8080:80 feature-toggle-at-nginx-level-my-version
