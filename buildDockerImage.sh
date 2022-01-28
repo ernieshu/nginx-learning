@@ -1,0 +1,1 @@
+docker build . -t feature-toggle-at-nginx-level-my-version:latest
